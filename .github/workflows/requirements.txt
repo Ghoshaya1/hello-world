@@ -11,4 +11,4 @@ ptvsd==4.3.2
 six==1.15.0
 subprocess32==3.5.4
 virtualenv==20.4.4
-Werkzeug==1.0.1
+Werkzeug==2.2.3
